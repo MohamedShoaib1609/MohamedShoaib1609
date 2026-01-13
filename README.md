@@ -1,5 +1,18 @@
 # 💫 About Me:
-Data Analyst, Generative AI developer,finance analyst ,data scientist and buisness analysis
+Data Scientist | AI/ML Engineer | Finance & Business Analytics Enthusiast
+I’m a Data Scientist and AI/ML Engineer with a strong interest in financial analytics, business strategy, and data-driven decision making. I specialize in transforming complex data into actionable insights using Machine Learning, statistical analysis, and AI-driven models.
+I enjoy working at the intersection of technology, finance, and strategy, helping businesses optimize performance, reduce risk, and drive growth.
+
+Financial Performance Dashboard:
+Created an interactive dashboard to track revenue, expenses, and profit margins
+Identified key financial KPIs for business decision-making Tech: Python, SQL, Power BI
+Sales & Revenue Optimization Analysis:
+Analyzed sales data to identify underperforming products and regionsProvided data-driven recommendations to improve revenue growth
+Tech: Python, Pandas, Seaborn
+What I’m Working On:
+Advanced financial forecasting models
+AI-driven business intelligence solutions
+Real-world data science projects with business impact
 
 
 # 💻 Tech Stack:
